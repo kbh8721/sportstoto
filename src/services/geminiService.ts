@@ -104,7 +104,7 @@ export async function analyzeSportsMatch(query: string): Promise<AnalysisReport>
       },
     });
 
-    const resultText = response.text();
+    const resultText = response.text;
     if (!resultText) {
       throw new Error("AI returned an empty response.");
     }
