@@ -1,0 +1,6 @@
+{
+  "name": "AI 스포츠 전력분석 프로",
+  "description": "데이터 사이언티스트 AI가 축구, 농구, 야구 등 주요 스포츠 경기를 심층 분석하고 예측 리포트를 생성합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
